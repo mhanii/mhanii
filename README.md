@@ -35,7 +35,7 @@ edits LaTeX projects, and a lot of real analysis.
   <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,c,nextjs,react,fastapi,flask,docker,linux,latex&perline=13" alt="Python, TypeScript, JavaScript, Java, C++, C, Next.js, React, FastAPI, Flask, Docker, Linux, LaTeX">
 </p>
 
-LangGraph · Neo4j · Qdrant · MediaPipe · Claude Code and Cursor for agentic coding
+LangGraph · Neo4j · Qdrant · MediaPipe · Vercel AI SDK · coding agents
 
 ### Also
 
